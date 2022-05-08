@@ -6,7 +6,8 @@ This boilerplate style separates and groups together related logic, like API-end
 their request handling logic
 
 There is another style which contains together the endpoint, handlers and it's own db schema
-separately in a coupled group, if you prefer that style; then I have uploaded that [here]()
+separately in a coupled group, if you prefer that style; which you can find [here]()
+(assuming I made and worked with it heh)
 
 **Note:** There is one inconvenience with pony, in that you will have to manually update
 the sql database tables if you decide to change the schema after you have done the initial
